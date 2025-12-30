@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Final-year **B.E. Information Technology** student passionate about building scalable web applications and solving real-world problems.  
-🔭 Currently working on **MERN stack projects** and my **final-year engineering project**.  
+🔭 Currently working on **MERN stack projects**.  
 🌱 Actively learning **DSA in Java**, **Cloud Computing**, and **Blockchain fundamentals**.  
 👯 Open to collaborating on **web development** and **open-source projects**.  
 💬 Ask me about **Java, OOPs, MERN stack, REST APIs, and backend development**.  
